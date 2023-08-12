@@ -37,13 +37,13 @@ Welcome to the Password Manager/Generator project! This is a small web applicati
     <pre>
     <code>pip3 install Flask</code>
     </pre>
-    <li> Install sqlite Module 
+    <li> Install sqlite Module (may give error but should be fine)
     <pre>
-    <code>pip install sqlite</code>
+    <code>pip install pysqlite</code>
     </pre>
     Or
     <pre>
-    <code>pip3 install sqlite</code>
+    <code>pip3 install pysqlite</code>
     </pre>
     <li> Install Cipher.crypto Module 
     <pre>
