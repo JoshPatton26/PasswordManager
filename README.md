@@ -37,7 +37,7 @@ Welcome to the Password Manager/Generator project! This is a small web applicati
     <pre>
     <code>pip3 install Flask</code>
     </pre>
-    <li> Install sqlite Library 
+    <li> Install sqlite Module 
     <pre>
     <code>pip install sqlite</code>
     </pre>
