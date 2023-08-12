@@ -23,7 +23,7 @@ Welcome to the Password Manager/Generator project! This is a small web applicati
 <ol>
     <li> Clone Repository 
     <pre>
-    <code>git clone https://github.com/your-username/PasswordManager.git</code>
+    <code>git clone https://github.com/JoshPatton26/PasswordManager.git</code>
     </pre>
     <li> Naviagte to Repository 
     <pre>
