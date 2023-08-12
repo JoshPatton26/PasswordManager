@@ -51,6 +51,14 @@ Welcome to the Password Manager/Generator project! This is a small web applicati
     </pre>
 </ol>
 
+<h3> Usage </h3>
+<ol> 
+    <li>Create a new account or log in using existing credentials.
+    <li>Generate a secure password by clicking the "Generate Password" button.
+    <li>Enter the name and username of the website/application and save the record.
+    <li>Use the "Manage Passwords" functionality to find and retrieve stored credentials.
+</ol><br>
+
 <h3> Preview </h3>
 <h4>Home
 <img alt="ERROR" src="images\ss1.png">
@@ -66,14 +74,6 @@ Welcome to the Password Manager/Generator project! This is a small web applicati
 <img alt="ERROR" src="images\ss6.png">
 <h4>Results
 <img alt="ERROR" src="images\ss7.png">
-
-<h3> Usage </h3>
-<ol> 
-    <li>Create a new account or log in using existing credentials.
-    <li>Generate a secure password by clicking the "Generate Password" button.
-    <li>Enter the name and username of the website/application and save the record.
-    <li>Use the "Manage Passwords" functionality to find and retrieve stored credentials.
-</ol>
 
 <br><br>
 <footer>
