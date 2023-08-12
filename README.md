@@ -96,5 +96,6 @@ The project is still in progress, and the following enhancements are planned:
 <img alt="ERROR" src="images\ss7.png">
 
 <br><br>
+<h2></h2>
 <footer>
 Note: This project is intended for educational purposes and personal challenges. It is not recommended for actual password management due to potential security vulnerabilities. Always use trusted and well-tested password management solutions for real-world applications.
