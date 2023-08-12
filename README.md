@@ -37,18 +37,27 @@ Welcome to the Password Manager/Generator project! This is a small web applicati
     <pre>
     <code>pip3 install Flask</code>
     </pre>
-    <li> Install sqlite Module 
+    <li> Install sqlite Module (may give error but should be fine)
     <pre>
-    <code>pip install sqlite</code>
+    <code>pip install pysqlite</code>
     </pre>
     Or
     <pre>
-    <code>pip3 install sqlite</code>
+    <code>pip3 install pysqlite</code>
+    </pre>
+    <li> Install Cipher.crypto Module 
+    <pre>
+    <code>pip install pycryptodome</code>
+    </pre>
+    Or
+    <pre>
+    <code>pip3 install pycryptodome</code>
     </pre>
     <li> Run Python File / Launch Server 
     <pre>
     <code>python run.py</code>
     </pre>
+    <li> For first time use you will need uncomment lines 21 and 23, then save and run the code, then comment them back out and run code again. (working to fix this issue in the future)
 </ol>
 
 <h3> Usage </h3>
