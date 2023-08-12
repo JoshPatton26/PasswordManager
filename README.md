@@ -66,7 +66,18 @@ Welcome to the Password Manager/Generator project! This is a small web applicati
     <li>Generate a secure password by clicking the "Generate Password" button.
     <li>Enter the name and username of the website/application and save the record.
     <li>Use the "Manage Passwords" functionality to find and retrieve stored credentials.
-</ol><br>
+</ol>
+
+<h3> Future Enhancements </h3>
+The project is still in progress, and the following enhancements are planned:
+<ul> 
+    <li>Get the project into a more completed state (fix bugs / finish code).
+    <li>Password strength indicator for generated passwords.
+    <li>Ability to update and delete stored credentials.
+    <li>Two-factor authentication for added security.
+    <li>Implement the use of the myEncrypt.py (AES 128) for encryption of stored data.
+    <li>Backup and restore functionality.
+</ul><br>
 
 <h3> Preview </h3>
 <h4>Home
